@@ -1,0 +1,10 @@
+# Ignore generated data files
+*.csv
+*.joblib
+
+# Ignore generated images
+*.png
+
+# Ignore Python cache
+__pycache__/
+*.pyc
